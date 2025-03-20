@@ -36,11 +36,11 @@ The year 2000 is a leap year. Explanation: 2000 is divisible by 400, so it is a 
 ## 🔧 Compilation & Execution
 ### **Compile the Pascal program:**
 ```sh
-fpc LeapYearCheck.pas
+fpc BisextilleOp.pas
 ```
 ### **Run the compiled program:**
 ```sh
-./LeapYearCheck
+./BisextilleOp
 ```
 
 ## 📚 Leap Year Rules Explained

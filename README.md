@@ -1,10 +1,4 @@
-Here's a **well-structured README file** for your **LeapYearCheck** Pascal program:  
 
----
-
-### **README.md**  
-
-```markdown
 # Leap Year Check Program
 
 ## 📌 Overview
@@ -21,7 +15,7 @@ This **Pascal program** determines whether a given year is a **leap year** or **
 
 ## 🖥️ Example Usage
 ### ✅ **Leap Year (2024)**
-```
+
 Enter a year:  
 2024  
 The year 2024 is a leap year. Explanation: 2024 is divisible by 4 but not by 100, so it is a leap year.
